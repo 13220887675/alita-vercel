@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as t,a as _}from"./D91ywTRL.js";const c={},s={class:"footer-bottom"},n=_("p",null,"© 2024 ALITA普拉提",-1),r=[n];function a(d,i){return e(),t("div",s,r)}const l=o(c,[["render",a]]);export{l as _};
